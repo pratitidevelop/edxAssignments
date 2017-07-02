@@ -1,0 +1,1 @@
+word count using python and with elemination of most common words like "the", "for", "there" and filteration of punctutaions.
